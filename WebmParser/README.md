@@ -5,7 +5,7 @@
 1. URL - the address of the web page.
 2. PATH - the path to the local directory.
 
-Change the [line 29](https://github.com/Skevary/OthersScriptsEtc/blob/master/WebmParser/src/main/java/Main.java#L29) to change the end goal for download.
+Change the [line 29](https://github.com/Skevary/SomeScriptsEtc/blob/master/WebmParser/src/main/java/Main.java#L29) to change the end goal for download.
 
 ### Useful links:
 
@@ -13,6 +13,6 @@ Change the [line 29](https://github.com/Skevary/OthersScriptsEtc/blob/master/Web
 - [Jsoup cookbook](https://jsoup.org/cookbook/)
 
 ### Table of contents:
-- [GenerateSomeButtonsCss](https://github.com/Skevary/OthersScriptsEtc/tree/master/GenerateSomeButtonsCss)
-- [WebmParser](https://github.com/Skevary/OthersScriptsEtc/tree/master/WebmParser)
-- [Redesign](https://github.com/Skevary/OthersScriptsEtc/tree/master/Redesign)
+- [GenerateSomeButtonsCss](https://github.com/Skevary/SomeScriptsEtc/tree/master/GenerateSomeButtonsCss)
+- [Redesign](https://github.com/Skevary/SomeScriptsEtc/tree/master/Redesign)
+- [WebmParser](https://github.com/Skevary/SomeScriptsEtc/tree/master/WebmParser)

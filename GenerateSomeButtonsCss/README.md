@@ -2,9 +2,9 @@
 The script gets the list of file names in the directory and generates the CSS representation.
 
 ### Program Argument:
- - The target directory
+- The target directory
  
- ### Table of contents:
- - [GenerateSomeButtonsCss](https://github.com/Skevary/OthersScriptsEtc/tree/master/GenerateSomeButtonsCss)
- - [WebmParser](https://github.com/Skevary/OthersScriptsEtc/tree/master/WebmParser)
- - [Redesign](https://github.com/Skevary/OthersScriptsEtc/tree/master/Redesign)
+### Table of contents:
+- [GenerateSomeButtonsCss](https://github.com/Skevary/SomeScriptsEtc/tree/master/GenerateSomeButtonsCss)
+- [Redesign](https://github.com/Skevary/SomeScriptsEtc/tree/master/Redesign)
+- [WebmParser](https://github.com/Skevary/SomeScriptsEtc/tree/master/WebmParser)

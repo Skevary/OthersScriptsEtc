@@ -89,6 +89,10 @@ input.text.ts_input {
     border-radius: 5%;
 }
 
+.top_profile_img {
+    border-radius: 3px;
+}
+
 /* Others */
 
 #stl_bg {
