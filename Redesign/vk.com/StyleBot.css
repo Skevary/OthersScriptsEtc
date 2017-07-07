@@ -1,0 +1,97 @@
+/* Base */
+
+body {
+    background: #2e323c;
+}
+
+/* Left Menu-bar */
+
+#side_bar ol li .left_row {
+    color: #c5c1c1;
+}
+
+.left_fixer:hover {
+    background: #262931;
+}
+
+/* The message counter */
+
+.left_count_wrap:hover {
+    border: 0px;
+}
+
+.left_count_wrap {
+    background: #21c52f;
+    color: #ffffff;
+}
+
+/* Chat Tab */
+
+.chat_onl_inner {
+    background-color: #26282c;
+}
+
+.chat_tab_wrap:hover {
+    background-color: #1b1d21;
+}
+
+/* Disable Circle Radius*/
+
+.chat_tab_img {
+    border-radius: 5%;
+}
+
+.module_body .people_cell_img {
+    border-radius: 5%;
+}
+
+.nim-peer .nim-peer--photo-w {
+    border-radius: 5%;
+}
+
+.nim-peer img {
+    border-radius: 5%;
+}
+
+.page_block {
+    border-radius: 3px;
+}
+
+.page_list_module .cell_img {
+    border-radius: 5%;
+}
+
+.page_list_module .thumb {
+    border-radius: 5%;
+}
+
+.post_field_user_image {
+    border-radius: 5%;
+}
+
+.post_img {
+    border-radius: 5%;
+}
+
+.wall_module .reply_img {
+    border-radius: 5%;
+}
+
+input.text.ts_input {
+    border-radius: 3px;
+}
+
+.friends_photo_wrap img {
+    border-radius: 5%;
+}
+
+.right_list_img {
+    border-radius: 5%;
+}
+
+/* Others */
+
+#stl_bg {
+    background-color: #26282c;
+}
+

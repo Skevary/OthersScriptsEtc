@@ -11,3 +11,8 @@ Change the [line 29](https://github.com/Skevary/OthersScriptsEtc/blob/master/Web
 
 - [Jsoup API](https://jsoup.org/apidocs/)
 - [Jsoup cookbook](https://jsoup.org/cookbook/)
+
+### Table of contents:
+- [GenerateSomeButtonsCss](https://github.com/Skevary/OthersScriptsEtc/tree/master/GenerateSomeButtonsCss)
+- [WebmParser](https://github.com/Skevary/OthersScriptsEtc/tree/master/WebmParser)
+- [Redesign](https://github.com/Skevary/OthersScriptsEtc/tree/master/Redesign)
