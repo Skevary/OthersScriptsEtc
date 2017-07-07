@@ -1,0 +1,137 @@
+
+
+#addColumn.button{
+     -fx-background-image: url("file:content/gui/addColumn.png");
+}
+
+#addRow.button{
+     -fx-background-image: url("file:content/gui/addRow.png");
+}
+
+#back.button{
+     -fx-background-image: url("file:content/gui/back.jpg");
+}
+
+#back_1.button{
+     -fx-background-image: url("file:content/gui/back_1.png");
+}
+
+#back_2.button{
+     -fx-background-image: url("file:content/gui/back_2.jpg");
+}
+
+#back_2.button{
+     -fx-background-image: url("file:content/gui/back_2.png");
+}
+
+#back_3.button{
+     -fx-background-image: url("file:content/gui/back_3.png");
+}
+
+#copy.button{
+     -fx-background-image: url("file:content/gui/copy.png");
+}
+
+#deleteArray.button{
+     -fx-background-image: url("file:content/gui/deleteArray.png");
+}
+
+#dragTool.button{
+     -fx-background-image: url("file:content/gui/dragTool.png");
+}
+
+#drawTool.button{
+     -fx-background-image: url("file:content/gui/drawTool.png");
+}
+
+#eraseTool.button{
+     -fx-background-image: url("file:content/gui/eraseTool.png");
+}
+
+#exit.button{
+     -fx-background-image: url("file:content/gui/exit.png");
+}
+
+#fillTool.button{
+     -fx-background-image: url("file:content/gui/fillTool.png");
+}
+
+#grid.button{
+     -fx-background-image: url("file:content/gui/grid.png");
+}
+
+#help.button{
+     -fx-background-image: url("file:content/gui/help.png");
+}
+
+#icon.button{
+     -fx-background-image: url("file:content/gui/icon.png");
+}
+
+#importTexture.button{
+     -fx-background-image: url("file:content/gui/importTexture.png");
+}
+
+#navDown.button{
+     -fx-background-image: url("file:content/gui/navDown.png");
+}
+
+#navLeft.button{
+     -fx-background-image: url("file:content/gui/navLeft.png");
+}
+
+#navRight.button{
+     -fx-background-image: url("file:content/gui/navRight.png");
+}
+
+#navUp.button{
+     -fx-background-image: url("file:content/gui/navUp.png");
+}
+
+#newArray.button{
+     -fx-background-image: url("file:content/gui/newArray.png");
+}
+
+#openArray.button{
+     -fx-background-image: url("file:content/gui/openArray.png");
+}
+
+#removeColumn.button{
+     -fx-background-image: url("file:content/gui/removeColumn.png");
+}
+
+#removeRow.button{
+     -fx-background-image: url("file:content/gui/removeRow.png");
+}
+
+#saveArray.button{
+     -fx-background-image: url("file:content/gui/saveArray.png");
+}
+
+#settings.button{
+     -fx-background-image: url("file:content/gui/settings.png");
+}
+
+#textureBox.button{
+     -fx-background-image: url("file:content/gui/textureBox.png");
+}
+
+#textureBoxSmall.button{
+     -fx-background-image: url("file:content/gui/textureBoxSmall.png");
+}
+
+#Thumbs.button{
+     -fx-background-image: url("file:content/gui/Thumbs.db");
+}
+
+#zoomFit.button{
+     -fx-background-image: url("file:content/gui/zoomFit.png");
+}
+
+#zoomIn.button{
+     -fx-background-image: url("file:content/gui/zoomIn.png");
+}
+
+#zoomOut.button{
+     -fx-background-image: url("file:content/gui/zoomOut.png");
+}
