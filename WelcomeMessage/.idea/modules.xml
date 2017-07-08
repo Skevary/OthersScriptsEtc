@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WelcomeScript.iml" filepath="$PROJECT_DIR$/WelcomeScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WelcomeMessage.iml" filepath="$PROJECT_DIR$/WelcomeMessage.iml" />
     </modules>
   </component>
 </project>
