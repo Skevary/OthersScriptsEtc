@@ -17,10 +17,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="GetChromeLoginData" />
         <module name="GetChromePass" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="GetChromeLoginData" target="1.8" />
       <module name="GetChromePass" target="1.8" />
     </bytecodeTargetLevel>
   </component>

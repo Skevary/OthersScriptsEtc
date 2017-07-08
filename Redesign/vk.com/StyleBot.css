@@ -93,6 +93,22 @@ input.text.ts_input {
     border-radius: 3px;
 }
 
+.audio_owner_avatar {
+    border-radius: 5%;
+}
+
+.ow_ava.ow_ava_small {
+    border-radius: 5%;
+}
+
+.group_row_photo, .group_row_img {
+    border-radius: 5%;
+}
+
+.search_item_img {
+    border-radius: 5%;
+}
+
 /* Others */
 
 #stl_bg {
