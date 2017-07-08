@@ -11,3 +11,4 @@ Differnt kinds of custom redesign pages
 - [GetChromeLoginData](https://github.com/Skevary/SomeScriptsEtc/tree/master/GetChromeLoginData)
 - [Redesign](https://github.com/Skevary/SomeScriptsEtc/tree/master/Redesign)
 - [WebmParser](https://github.com/Skevary/SomeScriptsEtc/tree/master/WebmParser)
+- [WelcomeMessage](https://github.com/Skevary/SomeScriptsEtc/tree/master/WelcomeMessage)
