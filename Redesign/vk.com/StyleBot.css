@@ -109,6 +109,22 @@ input.text.ts_input {
     border-radius: 5%;
 }
 
+.group_friends_image {
+    border-radius: 5%;
+}
+
+.fave_link_thumb {
+    border-radius: 5%;
+}
+
+.ts_contact_img {
+    border-radius: 5%;
+}
+
+.wall_module .copy_post_img {
+    border-radius: 5px;
+}
+
 /* Others */
 
 #stl_bg {
