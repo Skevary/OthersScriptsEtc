@@ -125,6 +125,22 @@ input.text.ts_input {
     border-radius: 5px;
 }
 
+.top_notify_cont .feedback_img {
+    border-radius: 5%;
+}
+
+.audio_page_player_play .icon {
+    border-radius: 5%;
+}
+
+.mv_author_photo {
+    border-radius: 5%;
+}
+
+.market_item_owner_img {
+    border-radius: 5%;
+}
+
 /* Others */
 
 #stl_bg {
