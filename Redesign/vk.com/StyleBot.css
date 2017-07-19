@@ -141,6 +141,19 @@ input.text.ts_input {
     border-radius: 5%;
 }
 
+img.settings_bl_photo {
+   border-radius: 5%;
+}
+
+.submit_post_box .post_field_choose_image {
+    border-radius: 5%;
+}
+
+.post_from_tt_image {
+    border-radius: 5%;
+}
+
+
 /* Others */
 
 #stl_bg {
