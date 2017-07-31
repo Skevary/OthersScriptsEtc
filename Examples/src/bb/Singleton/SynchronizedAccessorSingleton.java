@@ -5,8 +5,11 @@ package com.bb.Singleton;
     - Poor performance (critical section) in most typical access
 */
 
-public class SynchronizedAccessorSingleton {
+public final class SynchronizedAccessorSingleton {
     private static SynchronizedAccessorSingleton instance;
+
+    private SynchronizedAccessorSingleton() {
+    }
 
     public static synchronized SynchronizedAccessorSingleton getInstance() {
         if (instance == null) instance = new SynchronizedAccessorSingleton();

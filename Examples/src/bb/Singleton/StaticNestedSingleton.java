@@ -6,7 +6,11 @@ package com.bb.Singleton;
     - Cannot be used for non-static class fields
 */
 
-public class StaticNestedSingleton {
+public final class StaticNestedSingleton {
+
+    private StaticNestedSingleton() {
+    }
+
     public static class SingletonHolder {
         public static final StaticNestedSingleton HOLDER_INSTANCE = new StaticNestedSingleton();
     }

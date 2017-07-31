@@ -6,8 +6,11 @@ package com.bb.Singleton;
     - Is only Supported with JDK 1.5
 */
 
-public class DoubleCheckedSingleton {
+public final class DoubleCheckedSingleton {
     private static volatile DoubleCheckedSingleton instance;
+
+    private DoubleCheckedSingleton() {
+    }
 
     public static DoubleCheckedSingleton getInstance() {
         DoubleCheckedSingleton localSingleton = instance;
