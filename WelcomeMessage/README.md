@@ -11,6 +11,7 @@
 * Выводящиеся на консоль сообщения должны быть получены из message resource и зависеть от системной локали пользователя. Сделать перевод на русский язык.
 
 ### Table of contents:
+- [Examples](https://github.com/Skevary/SomeScriptsEtc/tree/master/Examples/src)
 - [GenerateSomeButtonsCss](https://github.com/Skevary/SomeScriptsEtc/tree/master/GenerateSomeButtonsCss)
 - [GetChromeLoginData](https://github.com/Skevary/SomeScriptsEtc/tree/master/GetChromeLoginData)
 - [Redesign](https://github.com/Skevary/SomeScriptsEtc/tree/master/Redesign)

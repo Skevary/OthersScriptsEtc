@@ -1,4 +1,5 @@
-# vk.com
+# Examples
+Stuff for quick access
 
 ### Table of contents:
 - [Examples](https://github.com/Skevary/SomeScriptsEtc/tree/master/Examples/src)
@@ -7,8 +8,3 @@
 - [Redesign](https://github.com/Skevary/SomeScriptsEtc/tree/master/Redesign)
 - [WebmParser](https://github.com/Skevary/SomeScriptsEtc/tree/master/WebmParser)
 - [WelcomeMessage](https://github.com/Skevary/SomeScriptsEtc/tree/master/WelcomeMessage)
-
-
-![alt tag](https://github.com/Skevary/SomeScriptsEtc/blob/master/Redesign/ScreenShot/Screenshot_01.png)
-
-![alt tag](https://github.com/Skevary/SomeScriptsEtc/blob/master/Redesign/ScreenShot/Screenshot_02.png)
